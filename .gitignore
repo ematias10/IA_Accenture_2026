@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#RAG ignore
+*.sqlite3
+*.bin
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,17 @@
+{
+  "version_activa": "v1.0",
+  "versiones": {
+    "v1.0": {
+      "version": "v1.0",
+      "hash_sha256": "b1afc688bf942560",
+      "template": "Responde brevemente usando el contexto.\nContexto: {contexto}\nPregunta: {pregunta}",
+      "autor": "desarrollador_junior",
+      "descripcion": "Prompt base inicial sin restricciones de citación",
+      "creado_en": "2026-11-20T21:59:43.889913",
+      "estado": "aprobada",
+      "aprobado_por": "arquitecto_ia_senior",
+      "fecha_aprobacion": "2026-11-20T21:59:43.890882",
+      "comentarios_revision": "Aprobado para pruebas preliminares."
+    }
+  }
+}
